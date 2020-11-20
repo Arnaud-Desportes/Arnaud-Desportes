@@ -12,14 +12,12 @@ Je suis Arnaud Desportes, développeur web Front-End junior freelance en Isère 
 
 ## Mes compétences
 
-### Programmation
-
 🤘 Mes technos préférées: 
 * Html / Css / Js <img height="20" src="https://www.enovations.fr/wp-content/uploads/2017/04/clients-web-riches-1038x400.jpg" alt="Html css js">
 * ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
 * Redux <img height="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux">
 * Firebase <img height="20" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="FireBase"> 
-* MySql <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Mysql"> 
-* Php <img height="30" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" alt="Php"> 
-* Material <img height="30" src="https://material-ui.com/static/logo_raw.svg" alt="Material"> 
-* TailWind <img height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/215/full/tailwind.png" alt="Tailwind"> 
+* MySql <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Mysql"> 
+* Php <img height="20" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" alt="Php"> 
+* Material <img height="20" src="https://material-ui.com/static/logo_raw.svg" alt="Material"> 
+* TailWind <img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/215/full/tailwind.png" alt="Tailwind"> 
