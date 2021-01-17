@@ -4,6 +4,7 @@ C'est ici que je publie l'ensemble de mes projets privé/public ou à titre d'ex
 
 ### Où me trouver ?
 👉 Rejoins mon réseau : [LinkedIn](https://www.linkedin.com/in/arnaud-desportes-71999446/)
+
 👉 Consulte mes références : [Portfolio](https://www.arnaud-desportes.fr)
 
 ## 🚀 À propos
