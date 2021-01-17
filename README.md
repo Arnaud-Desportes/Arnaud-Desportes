@@ -12,7 +12,7 @@ Je suis Arnaud Desportes, développeur web Front-End junior freelance en Isère 
 
 ## Mes compétences
 
-🤘 Mes technos préférées: 
+### 🤘 Mes technos préférées: 
 * Html / Css / Js <img height="20" src="https://www.enovations.fr/wp-content/uploads/2017/04/clients-web-riches-1038x400.jpg" alt="Html css js">
 * ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
 * Redux <img height="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux">
