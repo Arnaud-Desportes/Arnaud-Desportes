@@ -9,7 +9,7 @@ C'est ici que je publie l'ensemble de mes projets privé/public ou à titre d'ex
 
 ## 🚀 À propos
 
-Je suis Arnaud Desportes, développeur web Front-End junior freelance en Isère (38), je travaille principalement en remote, je suis un autodidacte aguerri, responsable et créatif.
+Je suis Arnaud Desportes, développeur web Front-End freelance, j'habite en Isère (38), je travaille en remote, je suis un autodidacte aguerri, responsable et créatif.
 
 ## Mes compétences
 
