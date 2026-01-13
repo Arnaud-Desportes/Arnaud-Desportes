@@ -1,25 +1,44 @@
-# Bienvenue dans mon univers ! 👋
+# Arnaud Desportes - Développeur Fullstack React/Node | Expert SaaS & IA
 
-C'est ici que je publie l'ensemble de mes projets privé/public ou à titre d'expérimentation, n'hésite pas à entrer dans ma sphère si tu veux en savoir plus 💪💪
+Je transforme vos idées en applications web performantes et en SaaS rentables.
 
-### Où me trouver ?
-👉 Rejoins mon réseau : [LinkedIn](https://www.linkedin.com/in/arnaud-desportes-71999446/)
+---
 
-👉 Consulte mes références : [Portfolio](https://www.arnaud-desportes.fr)
+## A propos
 
-## 🚀 À propos
+Développeur web freelance avec **15 ans d'expérience**, je me spécialise dans la création de SaaS et l'intégration d'IA. Basé en Isère (38), je travaille en full remote.
 
-Je suis Arnaud Desportes, développeur web Front-End freelance, j'habite en Isère (38), je travaille en remote, je suis un autodidacte aguerri, responsable et créatif.
+**Créateur de [MycoverHero](https://mycoverhero.com)** - Générateur de miniatures YouTube propulsé par IA avec 500+ utilisateurs actifs.
 
-## Mes compétences
+**Super Malter 3** sur Malt.fr avec 36 missions réalisées et 100% de satisfaction client.
 
-### 🤘 Mes technos préférées: 
-* Html / Css / Js <img height="20" src="https://www.enovations.fr/wp-content/uploads/2017/04/clients-web-riches-1038x400.jpg" alt="Html css js">
-* ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
-* Redux <img height="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux">
-* Gatsby <img height="20" src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png" alt="Gatsby">
-* Firebase <img height="20" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="FireBase"> 
-* MySql <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Mysql"> 
-* Php <img height="20" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" alt="Php"> 
-* Material <img height="20" src="https://material-ui.com/static/logo_raw.svg" alt="Material"> 
-* TailWind <img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/215/full/tailwind.png" alt="Tailwind"> 
+---
+
+## Ce que je fais
+
+- Applications SaaS de A à Z (architecture, développement, déploiement)
+- Intégration d'APIs IA (OpenAI, Claude, Vercel AI SDK)
+- Systèmes de paiement Stripe
+- Interfaces React modernes et performantes
+- APIs Node.js robustes et scalables
+
+---
+
+## Stack technique
+
+**Frontend** - React 18 - Next.js 14 - TypeScript - Tailwind CSS - Framer Motion
+
+**Backend** - Node.js - Express - PostgreSQL - Firebase - Prisma
+
+**IA & Paiement** - OpenAI API - Claude API - Prompt Engineering - Stripe
+
+**DevOps** - Docker - Vercel - GitHub Actions - CI/CD
+
+---
+
+## Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/arnaud-desportes-71999446/)
+- [Portfolio](https://www.arnaud-desportes.fr)
+- [Malt](https://www.malt.fr/profile/arnauddesportes)
+- [MycoverHero](https://mycoverhero.com)
